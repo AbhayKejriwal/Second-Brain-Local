@@ -1,1 +1,0 @@
-[The Almanack of Naval Ravikant.pdf](The%20Almanack%20of%20Naval%20Ravikant.pdf)

@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7706c2c226d4420",
+        "id": "a64e4a83ac24c32a",
         "type": "tabs",
         "children": [
           {
-            "id": "b54c98c4b3da7ccd",
+            "id": "bcd114d4ac28359c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -174,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,24 +181,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b54c98c4b3da7ccd",
+  "active": "bcd114d4ac28359c",
   "lastOpenFiles": [
-    "2-Areas/Python/Gmail API.md",
-    "2-Areas/Sustainable Lifestyle/How to build a sustainable house using natural building materials - Down To Earth.md",
-    "_resources/Pasted image 20250321135616.png",
-    "_resources/Pasted image 20250321135545.png",
-    "_resources/Pasted image 20250321135540.png",
-    "_resources/Pasted image 20250321135522.png",
-    "_resources/Pasted image 20250321135456.png",
-    "_resources/Pasted image 20250321135410.png",
-    "_resources/Pasted image 20250321135354.png",
-    "_resources/Pasted image 20250321135329.png",
-    "_resources/Pasted image 20250321135317.png",
-    "_resources/Pasted image 20250321135301.png",
+    "Untitled.md",
+    "_resources/Screenshot 2025-03-24 222429.png",
+    "_resources/Screenshot 2025-03-24 222410.png",
+    "_resources/Screenshot 2025-03-24 222352.png",
+    "_resources/Screenshot 2025-03-24 222315.png",
+    "_resources/Screenshot 2025-03-24 222205.png",
+    "_resources/Screenshot 2025-03-24 222144.png",
+    "_resources/Screenshot 2025-03-24 222129.png",
+    "_resources/Screenshot 2025-03-24 222055.png",
+    "_resources/Screenshot 2025-03-23 232319.png",
+    "_resources/Screenshot 2025-03-23 232306.png",
+    "_resources",
+    "Python/Gmail API.md",
+    "Sustainable Lifestyle/How to build a sustainable house using natural building materials - Down To Earth.md",
     "0-Inbox/How to build a sustainable house using natural building materials - Down To Earth.md",
     "3-Resources/Cooking/Easy Cream Puffs with Simple Ingredients – No Fancy Tools Needed! - CookingAtHome.md",
-    "0-Inbox/Obsidian The King of Learning Tools (FULL GUIDE + SETUP)  - Odysseas.md",
-    "2-Areas/Business, Entrepreneurship & Finance/How I Code Profitable Apps SOLO (no wasted time  beginner friendly  with AI).md",
+    "Obsidian The King of Learning Tools (FULL GUIDE + SETUP)  - Odysseas.md",
+    "Business, Entrepreneurship & Finance/How I Code Profitable Apps SOLO (no wasted time  beginner friendly  with AI).md",
     "1-Amul/Amul - The Brand story.md",
     "0-Inbox",
     "Easy Cream Puffs with Simple Ingredients – No Fancy Tools Needed!.txt",
@@ -209,28 +209,25 @@
     "3-Resources/College & Academics/Researching/How to write a research paper.md",
     "3-Resources/Stationary worth buying.md",
     "1-Amul",
-    "2-Areas/Mindset & Self Development/3 Advice from Mark Rober.md",
+    "Mindset & Self Development/3 Advice from Mark Rober.md",
     "1-Inbox/Images",
     "1-Inbox",
     "Easy Cream Puffs with Simple Ingredients – No Fancy Tools Needed!.gdoc",
     "_resources/Survive in the era of AI",
     "_resources/Learn to Code in 2023",
-    "2-Areas/Mindset & Self Development/7 Simple Concepts That Make My Life Better - YouTu.md",
-    "2-Areas/Mindset & Self Development/Advices.md",
-    "2-Areas/Mindset & Self Development/Things just happen.md",
-    "2-Areas/Mindset & Self Development/Why Koreans Dress Better (6 Fashion Tips) - Wanhee 완희.md",
-    "2-Areas/Mindset & Self Development/Why You Should Seek Power, Not Happiness - Nietzsche's Guide to Greatness.md",
-    "2-Areas/Mindset & Self Development/Workhorse words & Commonplace Book Template.md",
-    "2-Areas/Productivity/how I reduced my screentime by 80% (guide) - YouTu.md",
-    "2-Areas/Productivity/A notebook to save you from mindless scrolling (Introducing 3-Part Journal).md",
-    "2-Areas/Sustainable Lifestyle/Built in 6 Months, This Home in Kerala Redefines S.md",
-    "2-Areas/Sustainable Lifestyle/11 Things To Avoid If You Want A Low Maintenance B.md",
-    "2-Areas/Physical Fitness & Nutrition/3 Healthy and Extremely High Calorie Breakfasts fo.md",
-    "2-Areas/Physical Fitness & Nutrition/5 Things to Instantly Make Your Atta a Superfood (.md",
-    "2-Areas/Physical Fitness & Nutrition/10 Glucose Hacks.md",
-    "2-Areas/Physical Fitness & Nutrition/3000-Calorie Diet .pdf",
-    "2-Areas/Physical Fitness & Nutrition/Mobility Routine.md",
-    "3-Resources/Survive in the era of AI",
+    "Mindset & Self Development/7 Simple Concepts That Make My Life Better - YouTu.md",
+    "Mindset & Self Development/Advices.md",
+    "Mindset & Self Development/Things just happen.md",
+    "Mindset & Self Development/Why Koreans Dress Better (6 Fashion Tips) - Wanhee 완희.md",
+    "Mindset & Self Development/Why You Should Seek Power, Not Happiness - Nietzsche's Guide to Greatness.md",
+    "Mindset & Self Development/Workhorse words & Commonplace Book Template.md",
+    "Productivity/how I reduced my screentime by 80% (guide) - YouTu.md",
+    "Productivity/A notebook to save you from mindless scrolling (Introducing 3-Part Journal).md",
+    "Sustainable Lifestyle/Built in 6 Months, This Home in Kerala Redefines S.md",
+    "Sustainable Lifestyle/11 Things To Avoid If You Want A Low Maintenance B.md",
+    "Physical Fitness & Nutrition/3 Healthy and Extremely High Calorie Breakfasts fo.md",
+    "Physical Fitness & Nutrition/5 Things to Instantly Make Your Atta a Superfood (.md",
+    "Physical Fitness & Nutrition/3000-Calorie Diet .pdf",
     "Untitled.canvas"
   ]
 }
