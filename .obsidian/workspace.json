@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "24e36d96d8093dfb",
+        "id": "a7706c2c226d4420",
         "type": "tabs",
         "children": [
           {
-            "id": "076721d9b351b9a0",
+            "id": "b54c98c4b3da7ccd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "2-Areas/Sustainable Lifestyle/How to build a sustainable house using natural building materials - Down To Earth.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "How to build a sustainable house using natural building materials - Down To Earth"
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
             }
           }
         ]
@@ -160,22 +158,35 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "2474b011a8072696",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "076721d9b351b9a0",
+  "active": "b54c98c4b3da7ccd",
   "lastOpenFiles": [
+    "2-Areas/Python/Gmail API.md",
+    "2-Areas/Sustainable Lifestyle/How to build a sustainable house using natural building materials - Down To Earth.md",
     "_resources/Pasted image 20250321135616.png",
     "_resources/Pasted image 20250321135545.png",
     "_resources/Pasted image 20250321135540.png",
@@ -186,9 +197,7 @@
     "_resources/Pasted image 20250321135329.png",
     "_resources/Pasted image 20250321135317.png",
     "_resources/Pasted image 20250321135301.png",
-    "_resources/Pasted image 20250321135201.png",
     "0-Inbox/How to build a sustainable house using natural building materials - Down To Earth.md",
-    "2-Areas/Sustainable Lifestyle/How to build a sustainable house using natural building materials - Down To Earth.md",
     "3-Resources/Cooking/Easy Cream Puffs with Simple Ingredients – No Fancy Tools Needed! - CookingAtHome.md",
     "0-Inbox/Obsidian The King of Learning Tools (FULL GUIDE + SETUP)  - Odysseas.md",
     "2-Areas/Business, Entrepreneurship & Finance/How I Code Profitable Apps SOLO (no wasted time  beginner friendly  with AI).md",
