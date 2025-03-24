@@ -7,9 +7,10 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "_resources",
+  "attachmentFolderPath": ".resources",
   "foldIndent": true,
   "showInlineTitle": true,
   "trashOption": "system",
-  "newFileFolderPath": "Inbox"
+  "newFileFolderPath": "Inbox",
+  "newLinkFormat": "relative"
 }
