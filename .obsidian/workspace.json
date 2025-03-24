@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "09a9bc228adfcb82",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e36d96d8093dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076721d9b351b9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/Sustainable Lifestyle/How to build a sustainable house using natural building materials - Down To Earth.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "How to build a sustainable house using natural building materials - Down To Earth"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b687f2debf7565e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "afd2e229ec8a0ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf55337eb92c311",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ca9dab2e5c53862e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a60e862573b1de92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "75818e52ecf5eabd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cddb1331f85fef44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a15fd2dc0dcab86d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python to Executable File.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python to Executable File"
+            }
+          },
+          {
+            "id": "34e34bf526537664",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python to Executable File.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python to Executable File"
+            }
+          },
+          {
+            "id": "7a9336e569924813",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81d8b3c48b435de1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python to Executable File.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python to Executable File"
+            }
+          },
+          {
+            "id": "1f0f609a375c9d7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "076721d9b351b9a0",
+  "lastOpenFiles": [
+    "_resources/Pasted image 20250321135616.png",
+    "_resources/Pasted image 20250321135545.png",
+    "_resources/Pasted image 20250321135540.png",
+    "_resources/Pasted image 20250321135522.png",
+    "_resources/Pasted image 20250321135456.png",
+    "_resources/Pasted image 20250321135410.png",
+    "_resources/Pasted image 20250321135354.png",
+    "_resources/Pasted image 20250321135329.png",
+    "_resources/Pasted image 20250321135317.png",
+    "_resources/Pasted image 20250321135301.png",
+    "_resources/Pasted image 20250321135201.png",
+    "0-Inbox/How to build a sustainable house using natural building materials - Down To Earth.md",
+    "2-Areas/Sustainable Lifestyle/How to build a sustainable house using natural building materials - Down To Earth.md",
+    "3-Resources/Cooking/Easy Cream Puffs with Simple Ingredients – No Fancy Tools Needed! - CookingAtHome.md",
+    "0-Inbox/Obsidian The King of Learning Tools (FULL GUIDE + SETUP)  - Odysseas.md",
+    "2-Areas/Business, Entrepreneurship & Finance/How I Code Profitable Apps SOLO (no wasted time  beginner friendly  with AI).md",
+    "1-Amul/Amul - The Brand story.md",
+    "0-Inbox",
+    "Easy Cream Puffs with Simple Ingredients – No Fancy Tools Needed!.txt",
+    "3-Resources/College & Academics/Researching/How to write essays and papers quickly.md",
+    "3-Resources/College & Academics/Researching/How to read a paper efficiently.md",
+    "3-Resources/College & Academics/Researching/How to write a research paper.md",
+    "3-Resources/Stationary worth buying.md",
+    "1-Amul",
+    "2-Areas/Mindset & Self Development/3 Advice from Mark Rober.md",
+    "1-Inbox/Images",
+    "1-Inbox",
+    "Easy Cream Puffs with Simple Ingredients – No Fancy Tools Needed!.gdoc",
+    "_resources/Survive in the era of AI",
+    "_resources/Learn to Code in 2023",
+    "2-Areas/Mindset & Self Development/7 Simple Concepts That Make My Life Better - YouTu.md",
+    "2-Areas/Mindset & Self Development/Advices.md",
+    "2-Areas/Mindset & Self Development/Things just happen.md",
+    "2-Areas/Mindset & Self Development/Why Koreans Dress Better (6 Fashion Tips) - Wanhee 완희.md",
+    "2-Areas/Mindset & Self Development/Why You Should Seek Power, Not Happiness - Nietzsche's Guide to Greatness.md",
+    "2-Areas/Mindset & Self Development/Workhorse words & Commonplace Book Template.md",
+    "2-Areas/Productivity/how I reduced my screentime by 80% (guide) - YouTu.md",
+    "2-Areas/Productivity/A notebook to save you from mindless scrolling (Introducing 3-Part Journal).md",
+    "2-Areas/Sustainable Lifestyle/Built in 6 Months, This Home in Kerala Redefines S.md",
+    "2-Areas/Sustainable Lifestyle/11 Things To Avoid If You Want A Low Maintenance B.md",
+    "2-Areas/Physical Fitness & Nutrition/3 Healthy and Extremely High Calorie Breakfasts fo.md",
+    "2-Areas/Physical Fitness & Nutrition/5 Things to Instantly Make Your Atta a Superfood (.md",
+    "2-Areas/Physical Fitness & Nutrition/10 Glucose Hacks.md",
+    "2-Areas/Physical Fitness & Nutrition/3000-Calorie Diet .pdf",
+    "2-Areas/Physical Fitness & Nutrition/Mobility Routine.md",
+    "3-Resources/Survive in the era of AI",
+    "Untitled.canvas"
+  ]
+}

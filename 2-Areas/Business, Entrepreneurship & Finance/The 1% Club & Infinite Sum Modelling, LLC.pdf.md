@@ -1,0 +1,1 @@
+![[The 1% Club & Infinite Sum Modelling, LLC.pdf]](../../../_resources/The%201%%20Club%20&%20Infinite%20Sum%20Modelling,%20LLC.pdf)

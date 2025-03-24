@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_resources",
+  "foldIndent": true,
+  "showInlineTitle": true,
+  "trashOption": "system",
+  "newFileFolderPath": "Inbox"
+}

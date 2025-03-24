@@ -1,0 +1,5 @@
+![[_resources/notetaking/Screenshot (1485).png]]![[_resources/notetaking/Screenshot (1481).png]]
+![[_resources/notetaking/Screenshot (1482).png]]
+![[_resources/notetaking/Screenshot (1483).png]]
+![[_resources/notetaking/Screenshot (1484).png]]
+![[_resources/notetaking/Screenshot (1365).png]]

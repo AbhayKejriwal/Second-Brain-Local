@@ -1,0 +1,1 @@
+[Solo Developers Making $10K+\_Month - Starter Story.xlsx](Solo%20Developers%20Making%20$10K+_Month%20-%20Starter%20Story.xlsx)

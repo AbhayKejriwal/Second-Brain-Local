@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "accentColor": "",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Verdana,Tahoma",
+  "showRibbon": true
+}
